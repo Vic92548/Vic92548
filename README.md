@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Vic92548/Vic92548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic92548&layout=compact)](https://github.com/Vic92548)
+## My released projects 🏆
+
+## My public projects 👇
+[![Sans titre 4](https://user-images.githubusercontent.com/22132982/163854458-79d4930d-a74e-4c27-8a88-9419e04818af.jpg)](https://github.com/LazyDB-community/uptime-robot-nodejs)
+
+[![Sans titre 4](https://user-images.githubusercontent.com/22132982/163853947-b57c44bd-02a5-4857-a83e-b775b67310d7.jpg)](https://github.com/Vic92548/Panau-Life)
