@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## My released projects 🏆
 
+[![Sans titre 4](https://user-images.githubusercontent.com/22132982/163943424-62f737e2-da24-4999-bdba-c60a8f2b29f0.jpg)](https://steamspy2.firebaseapp.com/)
+
 ## My public projects 👇
 [![Sans titre 4](https://user-images.githubusercontent.com/22132982/163854458-79d4930d-a74e-4c27-8a88-9419e04818af.jpg)](https://github.com/LazyDB-community/uptime-robot-nodejs)
 
