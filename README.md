@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ## My released projects 🏆
 
-
-[![Sans titre 4](https://user-images.githubusercontent.com/22132982/165804808-aacb1faf-9fda-48e3-a151-f21cbad67abf.jpg)](https://moneymadeonsteam.com)
-
 [![Sans titre 4](https://user-images.githubusercontent.com/22132982/163944498-b9a0357f-1062-4ff7-b9b7-9f9bbcf1e74e.jpg)](https://store.steampowered.com/app/1265300/Broll/)
 
 ## My public projects 👇
