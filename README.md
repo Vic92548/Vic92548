@@ -2,8 +2,8 @@
 
 <a href="https://victorchanet.work"><img src="https://img.shields.io/badge/Portfolio-victorchanet.work-blue?style=for-the-badge&logo=icloud" alt="Portfolio"></a>
 <a href="https://github.com/Vic92548"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://store.steampowered.com/developer/your-steam-id"><img src="https://img.shields.io/badge/Steam-Developer-black?style=for-the-badge&logo=steam" alt="Steam"></a>
+<a href="https://www.linkedin.com/in/victor-chanet/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://store.steampowered.com/developer/VictorGameStudio"><img src="https://img.shields.io/badge/Steam-Developer-black?style=for-the-badge&logo=steam" alt="Steam"></a>
 
 I'm a passionate **Full-Stack Engineer** and **Game Developer** dedicated to building immersive digital experiences and scalable game systems. I thrive in collaborative environments where I can contribute to creating amazing products, from concept to deployment.
 
